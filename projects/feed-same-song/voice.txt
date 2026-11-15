@@ -1,0 +1,17 @@
+YouTube feed में वही Shorts बार-बार क्यों दिखते हैं?
+
+YouTube recommendations हर viewer को अलग दिख सकती हैं.
+
+पहला clue: watch history—आपने क्या देखा. दूसरा: search history—क्या खोजा.
+
+तीसरा: किन channels को subscribe किया, और videos को like या dislike किया.
+
+ये कई signals हैं; एक view पूरी feed का remote नहीं.
+
+Shorts feed भी personalized है, लेकिन हर surface हर signal को एक जैसा use नहीं करता.
+
+Home पर कुछ कम देखना है? “Not interested” या “Don’t recommend channel” feedback दो.
+
+इसे reset button मत समझो—ये YouTube को दिया गया feedback है.
+
+Comment FEED—pinned comment में official controls guide है.

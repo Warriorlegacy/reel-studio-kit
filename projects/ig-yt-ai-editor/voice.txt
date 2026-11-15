@@ -1,0 +1,1 @@
+YouTube ka naya AI editor ab pause bhi cut kar deta hai. Punchline kaat gaya? Ek baar ho chuka hai sabke saath. Problem yeh hai: AI samajhta nahi ki pause kab zaroori hai. Fix simple hai. Prompt mein likho: keep natural pauses and emotional beats. Phir AI cut karega sirf extra silence. Try karo apne Shorts pe. Comment karo kaam aaya ya nahi.

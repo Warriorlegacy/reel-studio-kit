@@ -1,0 +1,13 @@
+एक slot पर दो bookings?
+
+आख़िरी slot खाली है. बिना coordinator के, दो requests साथ आती हैं. दोनों को AVAILABLE दिखता है—अब दो confirmations निकलने वाले हैं.
+
+Stable key बनाओ: clinic, staff, date, time. उसी key के Durable Object पर दोनों requests route करो—एक coordinator, एक फैसला.
+
+Durable Object single-threaded है, फिर भी await fetch के दौरान दूसरी request चल सकती है. Async storage का read-check-reserve? इसे transaction में बाँधो. Network call को बाहर रखो.
+
+पहली request slot reserve करती है. दूसरी BOOKED देखकर ALREADY BOOKED लौटाती है.
+
+गलत key? दो coordinators. Race वापस.
+
+Comment FLOW for the pinned checklist.

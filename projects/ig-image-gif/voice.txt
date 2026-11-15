@@ -1,0 +1,11 @@
+AI से तस्वीर की GIF बन सकती है—पर आखिरी frame गलत हुआ, तो loop झटकेगा. इसे smooth कैसे रखें? OpenAI Images 2.6 में GIF generation जोड़ी गई है.
+
+मान लो तुम्हारा mascot हाथ हिलाता है. Prompt में तीन बातें लिखो: क्या हिले, movement कैसी हो, और कहाँ जाकर loop शुरू वाली pose पर लौटे.
+
+Example: “कप से भाप धीरे ऊपर उठे, कैमरा स्थिर रहे, भाप फिर पहली shape में लौटे.”
+
+बस, trick आखिरी line है: end pose पहली frame जैसी. नहीं तो loop पर झटका दिखेगा.
+
+ध्यान रहे, GIF छोटा repeating clip है—पूरा edited video नहीं. Generate करने के बाद loop देखो.
+
+अब बताओ, तुम किस चीज़ को animate करोगे?

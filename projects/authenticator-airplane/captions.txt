@@ -1,0 +1,7 @@
+Flight mode on, phir bhi OTP aata hai—kaise? Authenticator app airplane mode mein bhi kaam karta hai. Kyunki OTP internet se nahi aata, yeh tumhare phone ke andar hi banta hai.
+
+App ek secret key aur current time use karta hai. Har 30 second ek naya 6-digit code generate hota hai. Internet sirf pehli setup ke liye chahiye—uske baad offline bhi code milega.
+
+Myth: OTP always needs network. Fact: only the first pairing needs network. Try karo: flight mode on karo, app kholo, code dekho.
+
+Toh next time plane pe ho, authenticator app kholo—code ready hoga. Comment: FLIGHT ya ONLINE?

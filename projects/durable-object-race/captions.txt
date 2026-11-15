@@ -1,0 +1,7 @@
+एक स्लॉट, दो confirmations—भरोसा कैसे बचाओगे?
+जब दो booking requests एक ही खाली slot को साथ पढ़ती हैं, race condition हो सकती है।
+इस slot को एक stable ID दो। उसी ID वाला Durable Object, उस resource का coordinator बनता है।
+लेकिन single-threaded होना ही काफी नहीं। Await के बीच requests interleave कर सकती हैं। इसलिए read, check और reserve को एक storage transaction में रखो।
+पहली booking slot reserve करती है। अगली request updated state देखकर “already booked” लौटाती है।
+Durable Object जादुई lock नहीं—ID और transaction सही होने चाहिए।
+एक slot। एक source of truth। ऐसे system diagrams के लिए @signhify.studio को follow करो।

@@ -1,0 +1,35 @@
+Internet kaise kaam karta hai, 5 minute mein samjho. Aaj hum dekhenge ki ek message tumhare phone se duusre phone tak kaise pahunchta hai.
+
+Pehle, internet kya hai? Internet ek global network hai—millions of computers aur servers connected together. Jaise ek giant road network, jahan data packets travel karte hain.
+
+Jab tum "hello" type karte ho aur send dabate ho, woh text chhota data packet ban jata hai. Packet mein address hota hai—kis device ko bhejna hai. Jaise letter pe address.
+
+Packet pehle tumhare phone se router tak jata hai. Router ghar ka traffic police hai—decide karta hai kaunsa path best hai.
+
+Router se packet ISP (Internet Service Provider) tak jata hai—Jio, Airtel, etc. ISP ka kaam hai packet ko next hop tak bhejna.
+
+ISP se packet internet backbone tak jata hai—undersea cables, fiber optics, satellites. Yeh backbone duniya ko jodta hai.
+
+Packet destination country tak pahunchta hai, wahan ka ISP receive karta hai, then router, then final device. Whole journey milliseconds mein.
+
+Key concepts: IP address—har device ka unique address. DNS—domain name system, jo "google.com" ko IP address mein convert karta hai. Protocol—rules of communication, jaise HTTP, HTTPS, TCP, UDP.
+
+TCP vs UDP: TCP reliable hai—packets order mein aate hain, missing packet re-sent. UDP fast hai but no guarantee—video calls, gaming use UDP.
+
+HTTP vs HTTPS: HTTPS encrypted hai, secure. Lock icon browser mein.
+
+Servers: websites servers pe hosted hoti hain. Server 24/7 online rehta hai, requests serve karta hai. Cloud = rented servers.
+
+Latency: delay. Bandwidth: speed. Ping: round-trip time. Jitna kam latency, utna fast.
+
+CDN: Content Delivery Network—files copies near you, faster load. Netflix, YouTube use CDN.
+
+Wi-Fi vs Mobile data: Wi-Fi router se, mobile data tower se. Both internet pe connected.
+
+Security: firewall, VPN, encryption. VPN tunnel banata hai, IP hide karta hai.
+
+Common myths: Internet = Wi-Fi (nahi). Faster plan = faster website (depends on server too). 5G = always better (coverage matters).
+
+Summary: phone → router → ISP → backbone → destination ISP → router → device. Packets, IP, DNS, protocols. Latency/bandwidth. Servers/CDN. Security.
+
+Ab tum samjho: internet magic nahi hai, engineering hai. Comment karo: kaunsa part sabse interesting laga?

@@ -1,0 +1,1782 @@
+[
+  {
+    "word": "Internet",
+    "start": 0.0,
+    "end": 0.504
+  },
+  {
+    "word": "kaise",
+    "start": 0.63,
+    "end": 1.134
+  },
+  {
+    "word": "kaam",
+    "start": 1.26,
+    "end": 1.764
+  },
+  {
+    "word": "karta",
+    "start": 1.89,
+    "end": 2.394
+  },
+  {
+    "word": "hai,",
+    "start": 2.52,
+    "end": 3.024
+  },
+  {
+    "word": "5",
+    "start": 3.15,
+    "end": 3.654
+  },
+  {
+    "word": "minute",
+    "start": 3.78,
+    "end": 4.284
+  },
+  {
+    "word": "mein",
+    "start": 4.41,
+    "end": 4.914
+  },
+  {
+    "word": "samjho.",
+    "start": 5.04,
+    "end": 5.544
+  },
+  {
+    "word": "Aaj",
+    "start": 5.671,
+    "end": 6.175
+  },
+  {
+    "word": "hum",
+    "start": 6.301,
+    "end": 6.805
+  },
+  {
+    "word": "dekhenge",
+    "start": 6.931,
+    "end": 7.435
+  },
+  {
+    "word": "ki",
+    "start": 7.561,
+    "end": 8.065
+  },
+  {
+    "word": "ek",
+    "start": 8.191,
+    "end": 8.695
+  },
+  {
+    "word": "message",
+    "start": 8.821,
+    "end": 9.325
+  },
+  {
+    "word": "tumhare",
+    "start": 9.451,
+    "end": 9.955
+  },
+  {
+    "word": "phone",
+    "start": 10.081,
+    "end": 10.585
+  },
+  {
+    "word": "se",
+    "start": 10.711,
+    "end": 11.215
+  },
+  {
+    "word": "duusre",
+    "start": 11.341,
+    "end": 11.845
+  },
+  {
+    "word": "phone",
+    "start": 11.971,
+    "end": 12.475
+  },
+  {
+    "word": "tak",
+    "start": 12.601,
+    "end": 13.105
+  },
+  {
+    "word": "kaise",
+    "start": 13.231,
+    "end": 13.735
+  },
+  {
+    "word": "pahunchta",
+    "start": 13.861,
+    "end": 14.365
+  },
+  {
+    "word": "hai.",
+    "start": 14.491,
+    "end": 14.995
+  },
+  {
+    "word": "Pehle,",
+    "start": 15.121,
+    "end": 15.625
+  },
+  {
+    "word": "internet",
+    "start": 15.751,
+    "end": 16.255
+  },
+  {
+    "word": "kya",
+    "start": 16.381,
+    "end": 16.886
+  },
+  {
+    "word": "hai?",
+    "start": 17.012,
+    "end": 17.516
+  },
+  {
+    "word": "Internet",
+    "start": 17.642,
+    "end": 18.146
+  },
+  {
+    "word": "ek",
+    "start": 18.272,
+    "end": 18.776
+  },
+  {
+    "word": "global",
+    "start": 18.902,
+    "end": 19.406
+  },
+  {
+    "word": "network",
+    "start": 19.532,
+    "end": 20.036
+  },
+  {
+    "word": "hai—millions",
+    "start": 20.162,
+    "end": 20.666
+  },
+  {
+    "word": "of",
+    "start": 20.792,
+    "end": 21.296
+  },
+  {
+    "word": "computers",
+    "start": 21.422,
+    "end": 21.926
+  },
+  {
+    "word": "aur",
+    "start": 22.052,
+    "end": 22.556
+  },
+  {
+    "word": "servers",
+    "start": 22.682,
+    "end": 23.186
+  },
+  {
+    "word": "connected",
+    "start": 23.312,
+    "end": 23.816
+  },
+  {
+    "word": "together.",
+    "start": 23.942,
+    "end": 24.446
+  },
+  {
+    "word": "Jaise",
+    "start": 24.572,
+    "end": 25.076
+  },
+  {
+    "word": "ek",
+    "start": 25.202,
+    "end": 25.706
+  },
+  {
+    "word": "giant",
+    "start": 25.832,
+    "end": 26.336
+  },
+  {
+    "word": "road",
+    "start": 26.462,
+    "end": 26.966
+  },
+  {
+    "word": "network,",
+    "start": 27.092,
+    "end": 27.596
+  },
+  {
+    "word": "jahan",
+    "start": 27.722,
+    "end": 28.227
+  },
+  {
+    "word": "data",
+    "start": 28.353,
+    "end": 28.857
+  },
+  {
+    "word": "packets",
+    "start": 28.983,
+    "end": 29.487
+  },
+  {
+    "word": "travel",
+    "start": 29.613,
+    "end": 30.117
+  },
+  {
+    "word": "karte",
+    "start": 30.243,
+    "end": 30.747
+  },
+  {
+    "word": "hain.",
+    "start": 30.873,
+    "end": 31.377
+  },
+  {
+    "word": "Jab",
+    "start": 31.503,
+    "end": 32.007
+  },
+  {
+    "word": "tum",
+    "start": 32.133,
+    "end": 32.637
+  },
+  {
+    "word": "\"hello\"",
+    "start": 32.763,
+    "end": 33.267
+  },
+  {
+    "word": "type",
+    "start": 33.393,
+    "end": 33.897
+  },
+  {
+    "word": "karte",
+    "start": 34.023,
+    "end": 34.527
+  },
+  {
+    "word": "ho",
+    "start": 34.653,
+    "end": 35.157
+  },
+  {
+    "word": "aur",
+    "start": 35.283,
+    "end": 35.787
+  },
+  {
+    "word": "send",
+    "start": 35.913,
+    "end": 36.417
+  },
+  {
+    "word": "dabate",
+    "start": 36.543,
+    "end": 37.047
+  },
+  {
+    "word": "ho,",
+    "start": 37.173,
+    "end": 37.677
+  },
+  {
+    "word": "woh",
+    "start": 37.803,
+    "end": 38.307
+  },
+  {
+    "word": "text",
+    "start": 38.433,
+    "end": 38.937
+  },
+  {
+    "word": "chhota",
+    "start": 39.063,
+    "end": 39.568
+  },
+  {
+    "word": "data",
+    "start": 39.694,
+    "end": 40.198
+  },
+  {
+    "word": "packet",
+    "start": 40.324,
+    "end": 40.828
+  },
+  {
+    "word": "ban",
+    "start": 40.954,
+    "end": 41.458
+  },
+  {
+    "word": "jata",
+    "start": 41.584,
+    "end": 42.088
+  },
+  {
+    "word": "hai.",
+    "start": 42.214,
+    "end": 42.718
+  },
+  {
+    "word": "Packet",
+    "start": 42.844,
+    "end": 43.348
+  },
+  {
+    "word": "mein",
+    "start": 43.474,
+    "end": 43.978
+  },
+  {
+    "word": "address",
+    "start": 44.104,
+    "end": 44.608
+  },
+  {
+    "word": "hota",
+    "start": 44.734,
+    "end": 45.238
+  },
+  {
+    "word": "hai—kis",
+    "start": 45.364,
+    "end": 45.868
+  },
+  {
+    "word": "device",
+    "start": 45.994,
+    "end": 46.498
+  },
+  {
+    "word": "ko",
+    "start": 46.624,
+    "end": 47.128
+  },
+  {
+    "word": "bhejna",
+    "start": 47.254,
+    "end": 47.758
+  },
+  {
+    "word": "hai.",
+    "start": 47.884,
+    "end": 48.388
+  },
+  {
+    "word": "Jaise",
+    "start": 48.514,
+    "end": 49.018
+  },
+  {
+    "word": "letter",
+    "start": 49.144,
+    "end": 49.648
+  },
+  {
+    "word": "pe",
+    "start": 49.774,
+    "end": 50.278
+  },
+  {
+    "word": "address.",
+    "start": 50.404,
+    "end": 50.909
+  },
+  {
+    "word": "Packet",
+    "start": 51.035,
+    "end": 51.539
+  },
+  {
+    "word": "pehle",
+    "start": 51.665,
+    "end": 52.169
+  },
+  {
+    "word": "tumhare",
+    "start": 52.295,
+    "end": 52.799
+  },
+  {
+    "word": "phone",
+    "start": 52.925,
+    "end": 53.429
+  },
+  {
+    "word": "se",
+    "start": 53.555,
+    "end": 54.059
+  },
+  {
+    "word": "router",
+    "start": 54.185,
+    "end": 54.689
+  },
+  {
+    "word": "tak",
+    "start": 54.815,
+    "end": 55.319
+  },
+  {
+    "word": "jata",
+    "start": 55.445,
+    "end": 55.949
+  },
+  {
+    "word": "hai.",
+    "start": 56.075,
+    "end": 56.579
+  },
+  {
+    "word": "Router",
+    "start": 56.705,
+    "end": 57.209
+  },
+  {
+    "word": "ghar",
+    "start": 57.335,
+    "end": 57.839
+  },
+  {
+    "word": "ka",
+    "start": 57.965,
+    "end": 58.469
+  },
+  {
+    "word": "traffic",
+    "start": 58.595,
+    "end": 59.099
+  },
+  {
+    "word": "police",
+    "start": 59.225,
+    "end": 59.729
+  },
+  {
+    "word": "hai—decide",
+    "start": 59.855,
+    "end": 60.359
+  },
+  {
+    "word": "karta",
+    "start": 60.485,
+    "end": 60.989
+  },
+  {
+    "word": "hai",
+    "start": 61.115,
+    "end": 61.619
+  },
+  {
+    "word": "kaunsa",
+    "start": 61.746,
+    "end": 62.25
+  },
+  {
+    "word": "path",
+    "start": 62.376,
+    "end": 62.88
+  },
+  {
+    "word": "best",
+    "start": 63.006,
+    "end": 63.51
+  },
+  {
+    "word": "hai.",
+    "start": 63.636,
+    "end": 64.14
+  },
+  {
+    "word": "Router",
+    "start": 64.266,
+    "end": 64.77
+  },
+  {
+    "word": "se",
+    "start": 64.896,
+    "end": 65.4
+  },
+  {
+    "word": "packet",
+    "start": 65.526,
+    "end": 66.03
+  },
+  {
+    "word": "ISP",
+    "start": 66.156,
+    "end": 66.66
+  },
+  {
+    "word": "(Internet",
+    "start": 66.786,
+    "end": 67.29
+  },
+  {
+    "word": "Service",
+    "start": 67.416,
+    "end": 67.92
+  },
+  {
+    "word": "Provider)",
+    "start": 68.046,
+    "end": 68.55
+  },
+  {
+    "word": "tak",
+    "start": 68.676,
+    "end": 69.18
+  },
+  {
+    "word": "jata",
+    "start": 69.306,
+    "end": 69.81
+  },
+  {
+    "word": "hai—Jio,",
+    "start": 69.936,
+    "end": 70.44
+  },
+  {
+    "word": "Airtel,",
+    "start": 70.566,
+    "end": 71.07
+  },
+  {
+    "word": "etc.",
+    "start": 71.196,
+    "end": 71.7
+  },
+  {
+    "word": "ISP",
+    "start": 71.826,
+    "end": 72.33
+  },
+  {
+    "word": "ka",
+    "start": 72.456,
+    "end": 72.961
+  },
+  {
+    "word": "kaam",
+    "start": 73.087,
+    "end": 73.591
+  },
+  {
+    "word": "hai",
+    "start": 73.717,
+    "end": 74.221
+  },
+  {
+    "word": "packet",
+    "start": 74.347,
+    "end": 74.851
+  },
+  {
+    "word": "ko",
+    "start": 74.977,
+    "end": 75.481
+  },
+  {
+    "word": "next",
+    "start": 75.607,
+    "end": 76.111
+  },
+  {
+    "word": "hop",
+    "start": 76.237,
+    "end": 76.741
+  },
+  {
+    "word": "tak",
+    "start": 76.867,
+    "end": 77.371
+  },
+  {
+    "word": "bhejna.",
+    "start": 77.497,
+    "end": 78.001
+  },
+  {
+    "word": "ISP",
+    "start": 78.127,
+    "end": 78.631
+  },
+  {
+    "word": "se",
+    "start": 78.757,
+    "end": 79.261
+  },
+  {
+    "word": "packet",
+    "start": 79.387,
+    "end": 79.891
+  },
+  {
+    "word": "internet",
+    "start": 80.017,
+    "end": 80.521
+  },
+  {
+    "word": "backbone",
+    "start": 80.647,
+    "end": 81.151
+  },
+  {
+    "word": "tak",
+    "start": 81.277,
+    "end": 81.781
+  },
+  {
+    "word": "jata",
+    "start": 81.907,
+    "end": 82.411
+  },
+  {
+    "word": "hai—undersea",
+    "start": 82.537,
+    "end": 83.041
+  },
+  {
+    "word": "cables,",
+    "start": 83.167,
+    "end": 83.671
+  },
+  {
+    "word": "fiber",
+    "start": 83.797,
+    "end": 84.302
+  },
+  {
+    "word": "optics,",
+    "start": 84.428,
+    "end": 84.932
+  },
+  {
+    "word": "satellites.",
+    "start": 85.058,
+    "end": 85.562
+  },
+  {
+    "word": "Yeh",
+    "start": 85.688,
+    "end": 86.192
+  },
+  {
+    "word": "backbone",
+    "start": 86.318,
+    "end": 86.822
+  },
+  {
+    "word": "duniya",
+    "start": 86.948,
+    "end": 87.452
+  },
+  {
+    "word": "ko",
+    "start": 87.578,
+    "end": 88.082
+  },
+  {
+    "word": "jodta",
+    "start": 88.208,
+    "end": 88.712
+  },
+  {
+    "word": "hai.",
+    "start": 88.838,
+    "end": 89.342
+  },
+  {
+    "word": "Packet",
+    "start": 89.468,
+    "end": 89.972
+  },
+  {
+    "word": "destination",
+    "start": 90.098,
+    "end": 90.602
+  },
+  {
+    "word": "country",
+    "start": 90.728,
+    "end": 91.232
+  },
+  {
+    "word": "tak",
+    "start": 91.358,
+    "end": 91.862
+  },
+  {
+    "word": "pahunchta",
+    "start": 91.988,
+    "end": 92.492
+  },
+  {
+    "word": "hai,",
+    "start": 92.618,
+    "end": 93.122
+  },
+  {
+    "word": "wahan",
+    "start": 93.248,
+    "end": 93.752
+  },
+  {
+    "word": "ka",
+    "start": 93.878,
+    "end": 94.382
+  },
+  {
+    "word": "ISP",
+    "start": 94.508,
+    "end": 95.012
+  },
+  {
+    "word": "receive",
+    "start": 95.138,
+    "end": 95.643
+  },
+  {
+    "word": "karta",
+    "start": 95.769,
+    "end": 96.273
+  },
+  {
+    "word": "hai,",
+    "start": 96.399,
+    "end": 96.903
+  },
+  {
+    "word": "then",
+    "start": 97.029,
+    "end": 97.533
+  },
+  {
+    "word": "router,",
+    "start": 97.659,
+    "end": 98.163
+  },
+  {
+    "word": "then",
+    "start": 98.289,
+    "end": 98.793
+  },
+  {
+    "word": "final",
+    "start": 98.919,
+    "end": 99.423
+  },
+  {
+    "word": "device.",
+    "start": 99.549,
+    "end": 100.053
+  },
+  {
+    "word": "Whole",
+    "start": 100.179,
+    "end": 100.683
+  },
+  {
+    "word": "journey",
+    "start": 100.809,
+    "end": 101.313
+  },
+  {
+    "word": "milliseconds",
+    "start": 101.439,
+    "end": 101.943
+  },
+  {
+    "word": "mein.",
+    "start": 102.069,
+    "end": 102.573
+  },
+  {
+    "word": "Key",
+    "start": 102.699,
+    "end": 103.203
+  },
+  {
+    "word": "concepts:",
+    "start": 103.329,
+    "end": 103.833
+  },
+  {
+    "word": "IP",
+    "start": 103.959,
+    "end": 104.463
+  },
+  {
+    "word": "address—har",
+    "start": 104.589,
+    "end": 105.093
+  },
+  {
+    "word": "device",
+    "start": 105.219,
+    "end": 105.723
+  },
+  {
+    "word": "ka",
+    "start": 105.849,
+    "end": 106.353
+  },
+  {
+    "word": "unique",
+    "start": 106.479,
+    "end": 106.984
+  },
+  {
+    "word": "address.",
+    "start": 107.11,
+    "end": 107.614
+  },
+  {
+    "word": "DNS—domain",
+    "start": 107.74,
+    "end": 108.244
+  },
+  {
+    "word": "name",
+    "start": 108.37,
+    "end": 108.874
+  },
+  {
+    "word": "system,",
+    "start": 109.0,
+    "end": 109.504
+  },
+  {
+    "word": "jo",
+    "start": 109.63,
+    "end": 110.134
+  },
+  {
+    "word": "\"google.com\"",
+    "start": 110.26,
+    "end": 110.764
+  },
+  {
+    "word": "ko",
+    "start": 110.89,
+    "end": 111.394
+  },
+  {
+    "word": "IP",
+    "start": 111.52,
+    "end": 112.024
+  },
+  {
+    "word": "address",
+    "start": 112.15,
+    "end": 112.654
+  },
+  {
+    "word": "mein",
+    "start": 112.78,
+    "end": 113.284
+  },
+  {
+    "word": "convert",
+    "start": 113.41,
+    "end": 113.914
+  },
+  {
+    "word": "karta",
+    "start": 114.04,
+    "end": 114.544
+  },
+  {
+    "word": "hai.",
+    "start": 114.67,
+    "end": 115.174
+  },
+  {
+    "word": "Protocol—rules",
+    "start": 115.3,
+    "end": 115.804
+  },
+  {
+    "word": "of",
+    "start": 115.93,
+    "end": 116.434
+  },
+  {
+    "word": "communication,",
+    "start": 116.56,
+    "end": 117.064
+  },
+  {
+    "word": "jaise",
+    "start": 117.19,
+    "end": 117.694
+  },
+  {
+    "word": "HTTP,",
+    "start": 117.821,
+    "end": 118.325
+  },
+  {
+    "word": "HTTPS,",
+    "start": 118.451,
+    "end": 118.955
+  },
+  {
+    "word": "TCP,",
+    "start": 119.081,
+    "end": 119.585
+  },
+  {
+    "word": "UDP.",
+    "start": 119.711,
+    "end": 120.215
+  },
+  {
+    "word": "TCP",
+    "start": 120.341,
+    "end": 120.845
+  },
+  {
+    "word": "vs",
+    "start": 120.971,
+    "end": 121.475
+  },
+  {
+    "word": "UDP:",
+    "start": 121.601,
+    "end": 122.105
+  },
+  {
+    "word": "TCP",
+    "start": 122.231,
+    "end": 122.735
+  },
+  {
+    "word": "reliable",
+    "start": 122.861,
+    "end": 123.365
+  },
+  {
+    "word": "hai—packets",
+    "start": 123.491,
+    "end": 123.995
+  },
+  {
+    "word": "order",
+    "start": 124.121,
+    "end": 124.625
+  },
+  {
+    "word": "mein",
+    "start": 124.751,
+    "end": 125.255
+  },
+  {
+    "word": "aate",
+    "start": 125.381,
+    "end": 125.885
+  },
+  {
+    "word": "hain,",
+    "start": 126.011,
+    "end": 126.515
+  },
+  {
+    "word": "missing",
+    "start": 126.641,
+    "end": 127.145
+  },
+  {
+    "word": "packet",
+    "start": 127.271,
+    "end": 127.775
+  },
+  {
+    "word": "re-sent.",
+    "start": 127.901,
+    "end": 128.405
+  },
+  {
+    "word": "UDP",
+    "start": 128.531,
+    "end": 129.036
+  },
+  {
+    "word": "fast",
+    "start": 129.162,
+    "end": 129.666
+  },
+  {
+    "word": "hai",
+    "start": 129.792,
+    "end": 130.296
+  },
+  {
+    "word": "but",
+    "start": 130.422,
+    "end": 130.926
+  },
+  {
+    "word": "no",
+    "start": 131.052,
+    "end": 131.556
+  },
+  {
+    "word": "guarantee—video",
+    "start": 131.682,
+    "end": 132.186
+  },
+  {
+    "word": "calls,",
+    "start": 132.312,
+    "end": 132.816
+  },
+  {
+    "word": "gaming",
+    "start": 132.942,
+    "end": 133.446
+  },
+  {
+    "word": "use",
+    "start": 133.572,
+    "end": 134.076
+  },
+  {
+    "word": "UDP.",
+    "start": 134.202,
+    "end": 134.706
+  },
+  {
+    "word": "HTTP",
+    "start": 134.832,
+    "end": 135.336
+  },
+  {
+    "word": "vs",
+    "start": 135.462,
+    "end": 135.966
+  },
+  {
+    "word": "HTTPS:",
+    "start": 136.092,
+    "end": 136.596
+  },
+  {
+    "word": "HTTPS",
+    "start": 136.722,
+    "end": 137.226
+  },
+  {
+    "word": "encrypted",
+    "start": 137.352,
+    "end": 137.856
+  },
+  {
+    "word": "hai,",
+    "start": 137.982,
+    "end": 138.486
+  },
+  {
+    "word": "secure.",
+    "start": 138.612,
+    "end": 139.116
+  },
+  {
+    "word": "Lock",
+    "start": 139.242,
+    "end": 139.746
+  },
+  {
+    "word": "icon",
+    "start": 139.872,
+    "end": 140.377
+  },
+  {
+    "word": "browser",
+    "start": 140.503,
+    "end": 141.007
+  },
+  {
+    "word": "mein.",
+    "start": 141.133,
+    "end": 141.637
+  },
+  {
+    "word": "Servers:",
+    "start": 141.763,
+    "end": 142.267
+  },
+  {
+    "word": "websites",
+    "start": 142.393,
+    "end": 142.897
+  },
+  {
+    "word": "servers",
+    "start": 143.023,
+    "end": 143.527
+  },
+  {
+    "word": "pe",
+    "start": 143.653,
+    "end": 144.157
+  },
+  {
+    "word": "hosted",
+    "start": 144.283,
+    "end": 144.787
+  },
+  {
+    "word": "hoti",
+    "start": 144.913,
+    "end": 145.417
+  },
+  {
+    "word": "hain.",
+    "start": 145.543,
+    "end": 146.047
+  },
+  {
+    "word": "Server",
+    "start": 146.173,
+    "end": 146.677
+  },
+  {
+    "word": "24/7",
+    "start": 146.803,
+    "end": 147.307
+  },
+  {
+    "word": "online",
+    "start": 147.433,
+    "end": 147.937
+  },
+  {
+    "word": "rehta",
+    "start": 148.063,
+    "end": 148.567
+  },
+  {
+    "word": "hai,",
+    "start": 148.693,
+    "end": 149.197
+  },
+  {
+    "word": "requests",
+    "start": 149.323,
+    "end": 149.827
+  },
+  {
+    "word": "serve",
+    "start": 149.953,
+    "end": 150.457
+  },
+  {
+    "word": "karta",
+    "start": 150.583,
+    "end": 151.087
+  },
+  {
+    "word": "hai.",
+    "start": 151.213,
+    "end": 151.718
+  },
+  {
+    "word": "Cloud",
+    "start": 151.844,
+    "end": 152.348
+  },
+  {
+    "word": "=",
+    "start": 152.474,
+    "end": 152.978
+  },
+  {
+    "word": "rented",
+    "start": 153.104,
+    "end": 153.608
+  },
+  {
+    "word": "servers.",
+    "start": 153.734,
+    "end": 154.238
+  },
+  {
+    "word": "Latency:",
+    "start": 154.364,
+    "end": 154.868
+  },
+  {
+    "word": "delay.",
+    "start": 154.994,
+    "end": 155.498
+  },
+  {
+    "word": "Bandwidth:",
+    "start": 155.624,
+    "end": 156.128
+  },
+  {
+    "word": "speed.",
+    "start": 156.254,
+    "end": 156.758
+  },
+  {
+    "word": "Ping:",
+    "start": 156.884,
+    "end": 157.388
+  },
+  {
+    "word": "round-trip",
+    "start": 157.514,
+    "end": 158.018
+  },
+  {
+    "word": "time.",
+    "start": 158.144,
+    "end": 158.648
+  },
+  {
+    "word": "Jitna",
+    "start": 158.774,
+    "end": 159.278
+  },
+  {
+    "word": "kam",
+    "start": 159.404,
+    "end": 159.908
+  },
+  {
+    "word": "latency,",
+    "start": 160.034,
+    "end": 160.538
+  },
+  {
+    "word": "utna",
+    "start": 160.664,
+    "end": 161.168
+  },
+  {
+    "word": "fast.",
+    "start": 161.294,
+    "end": 161.798
+  },
+  {
+    "word": "CDN:",
+    "start": 161.924,
+    "end": 162.428
+  },
+  {
+    "word": "Content",
+    "start": 162.554,
+    "end": 163.059
+  },
+  {
+    "word": "Delivery",
+    "start": 163.185,
+    "end": 163.689
+  },
+  {
+    "word": "Network—files",
+    "start": 163.815,
+    "end": 164.319
+  },
+  {
+    "word": "copies",
+    "start": 164.445,
+    "end": 164.949
+  },
+  {
+    "word": "near",
+    "start": 165.075,
+    "end": 165.579
+  },
+  {
+    "word": "you,",
+    "start": 165.705,
+    "end": 166.209
+  },
+  {
+    "word": "faster",
+    "start": 166.335,
+    "end": 166.839
+  },
+  {
+    "word": "load.",
+    "start": 166.965,
+    "end": 167.469
+  },
+  {
+    "word": "Netflix,",
+    "start": 167.595,
+    "end": 168.099
+  },
+  {
+    "word": "YouTube",
+    "start": 168.225,
+    "end": 168.729
+  },
+  {
+    "word": "use",
+    "start": 168.855,
+    "end": 169.359
+  },
+  {
+    "word": "CDN.",
+    "start": 169.485,
+    "end": 169.989
+  },
+  {
+    "word": "Wi-Fi",
+    "start": 170.115,
+    "end": 170.619
+  },
+  {
+    "word": "vs",
+    "start": 170.745,
+    "end": 171.249
+  },
+  {
+    "word": "Mobile",
+    "start": 171.375,
+    "end": 171.879
+  },
+  {
+    "word": "data:",
+    "start": 172.005,
+    "end": 172.509
+  },
+  {
+    "word": "Wi-Fi",
+    "start": 172.635,
+    "end": 173.139
+  },
+  {
+    "word": "router",
+    "start": 173.265,
+    "end": 173.769
+  },
+  {
+    "word": "se,",
+    "start": 173.896,
+    "end": 174.4
+  },
+  {
+    "word": "mobile",
+    "start": 174.526,
+    "end": 175.03
+  },
+  {
+    "word": "data",
+    "start": 175.156,
+    "end": 175.66
+  },
+  {
+    "word": "tower",
+    "start": 175.786,
+    "end": 176.29
+  },
+  {
+    "word": "se.",
+    "start": 176.416,
+    "end": 176.92
+  },
+  {
+    "word": "Both",
+    "start": 177.046,
+    "end": 177.55
+  },
+  {
+    "word": "internet",
+    "start": 177.676,
+    "end": 178.18
+  },
+  {
+    "word": "pe",
+    "start": 178.306,
+    "end": 178.81
+  },
+  {
+    "word": "connected.",
+    "start": 178.936,
+    "end": 179.44
+  },
+  {
+    "word": "Security:",
+    "start": 179.566,
+    "end": 180.07
+  },
+  {
+    "word": "firewall,",
+    "start": 180.196,
+    "end": 180.7
+  },
+  {
+    "word": "VPN,",
+    "start": 180.826,
+    "end": 181.33
+  },
+  {
+    "word": "encryption.",
+    "start": 181.456,
+    "end": 181.96
+  },
+  {
+    "word": "VPN",
+    "start": 182.086,
+    "end": 182.59
+  },
+  {
+    "word": "tunnel",
+    "start": 182.716,
+    "end": 183.22
+  },
+  {
+    "word": "banata",
+    "start": 183.346,
+    "end": 183.85
+  },
+  {
+    "word": "hai,",
+    "start": 183.976,
+    "end": 184.48
+  },
+  {
+    "word": "IP",
+    "start": 184.606,
+    "end": 185.111
+  },
+  {
+    "word": "hide",
+    "start": 185.237,
+    "end": 185.741
+  },
+  {
+    "word": "karta",
+    "start": 185.867,
+    "end": 186.371
+  },
+  {
+    "word": "hai.",
+    "start": 186.497,
+    "end": 187.001
+  },
+  {
+    "word": "Common",
+    "start": 187.127,
+    "end": 187.631
+  },
+  {
+    "word": "myths:",
+    "start": 187.757,
+    "end": 188.261
+  },
+  {
+    "word": "Internet",
+    "start": 188.387,
+    "end": 188.891
+  },
+  {
+    "word": "=",
+    "start": 189.017,
+    "end": 189.521
+  },
+  {
+    "word": "Wi-Fi",
+    "start": 189.647,
+    "end": 190.151
+  },
+  {
+    "word": "(nahi).",
+    "start": 190.277,
+    "end": 190.781
+  },
+  {
+    "word": "Faster",
+    "start": 190.907,
+    "end": 191.411
+  },
+  {
+    "word": "plan",
+    "start": 191.537,
+    "end": 192.041
+  },
+  {
+    "word": "=",
+    "start": 192.167,
+    "end": 192.671
+  },
+  {
+    "word": "faster",
+    "start": 192.797,
+    "end": 193.301
+  },
+  {
+    "word": "website",
+    "start": 193.427,
+    "end": 193.931
+  },
+  {
+    "word": "(depends",
+    "start": 194.057,
+    "end": 194.561
+  },
+  {
+    "word": "on",
+    "start": 194.687,
+    "end": 195.191
+  },
+  {
+    "word": "server",
+    "start": 195.317,
+    "end": 195.821
+  },
+  {
+    "word": "too).",
+    "start": 195.947,
+    "end": 196.452
+  },
+  {
+    "word": "5G",
+    "start": 196.578,
+    "end": 197.082
+  },
+  {
+    "word": "=",
+    "start": 197.208,
+    "end": 197.712
+  },
+  {
+    "word": "always",
+    "start": 197.838,
+    "end": 198.342
+  },
+  {
+    "word": "better",
+    "start": 198.468,
+    "end": 198.972
+  },
+  {
+    "word": "(coverage",
+    "start": 199.098,
+    "end": 199.602
+  },
+  {
+    "word": "matters).",
+    "start": 199.728,
+    "end": 200.232
+  },
+  {
+    "word": "Summary:",
+    "start": 200.358,
+    "end": 200.862
+  },
+  {
+    "word": "phone",
+    "start": 200.988,
+    "end": 201.492
+  },
+  {
+    "word": "→",
+    "start": 201.618,
+    "end": 202.122
+  },
+  {
+    "word": "router",
+    "start": 202.248,
+    "end": 202.752
+  },
+  {
+    "word": "→",
+    "start": 202.878,
+    "end": 203.382
+  },
+  {
+    "word": "ISP",
+    "start": 203.508,
+    "end": 204.012
+  },
+  {
+    "word": "→",
+    "start": 204.138,
+    "end": 204.642
+  },
+  {
+    "word": "backbone",
+    "start": 204.768,
+    "end": 205.272
+  },
+  {
+    "word": "→",
+    "start": 205.398,
+    "end": 205.902
+  },
+  {
+    "word": "destination",
+    "start": 206.028,
+    "end": 206.532
+  },
+  {
+    "word": "ISP",
+    "start": 206.658,
+    "end": 207.162
+  },
+  {
+    "word": "→",
+    "start": 207.288,
+    "end": 207.793
+  },
+  {
+    "word": "router",
+    "start": 207.919,
+    "end": 208.423
+  },
+  {
+    "word": "→",
+    "start": 208.549,
+    "end": 209.053
+  },
+  {
+    "word": "device.",
+    "start": 209.179,
+    "end": 209.683
+  },
+  {
+    "word": "Packets,",
+    "start": 209.809,
+    "end": 210.313
+  },
+  {
+    "word": "IP,",
+    "start": 210.439,
+    "end": 210.943
+  },
+  {
+    "word": "DNS,",
+    "start": 211.069,
+    "end": 211.573
+  },
+  {
+    "word": "protocols.",
+    "start": 211.699,
+    "end": 212.203
+  },
+  {
+    "word": "Latency/bandwidth.",
+    "start": 212.329,
+    "end": 212.833
+  },
+  {
+    "word": "Servers/CDN.",
+    "start": 212.959,
+    "end": 213.463
+  },
+  {
+    "word": "Security.",
+    "start": 213.589,
+    "end": 214.093
+  },
+  {
+    "word": "Ab",
+    "start": 214.219,
+    "end": 214.723
+  },
+  {
+    "word": "tum",
+    "start": 214.849,
+    "end": 215.353
+  },
+  {
+    "word": "samjho:",
+    "start": 215.479,
+    "end": 215.983
+  },
+  {
+    "word": "internet",
+    "start": 216.109,
+    "end": 216.613
+  },
+  {
+    "word": "magic",
+    "start": 216.739,
+    "end": 217.243
+  },
+  {
+    "word": "nahi",
+    "start": 217.369,
+    "end": 217.873
+  },
+  {
+    "word": "hai,",
+    "start": 217.999,
+    "end": 218.503
+  },
+  {
+    "word": "engineering",
+    "start": 218.629,
+    "end": 219.134
+  },
+  {
+    "word": "hai.",
+    "start": 219.26,
+    "end": 219.764
+  },
+  {
+    "word": "Comment",
+    "start": 219.89,
+    "end": 220.394
+  },
+  {
+    "word": "karo:",
+    "start": 220.52,
+    "end": 221.024
+  },
+  {
+    "word": "kaunsa",
+    "start": 221.15,
+    "end": 221.654
+  },
+  {
+    "word": "part",
+    "start": 221.78,
+    "end": 222.284
+  },
+  {
+    "word": "sabse",
+    "start": 222.41,
+    "end": 222.914
+  },
+  {
+    "word": "interesting",
+    "start": 223.04,
+    "end": 223.544
+  },
+  {
+    "word": "laga?",
+    "start": 223.67,
+    "end": 224.174
+  }
+]

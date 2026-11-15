@@ -1,0 +1,317 @@
+[
+  {
+    "word": "YouTube",
+    "start": 0.0,
+    "end": 0.28
+  },
+  {
+    "word": "ka",
+    "start": 0.28,
+    "end": 0.56
+  },
+  {
+    "word": "naya",
+    "start": 0.56,
+    "end": 1.14
+  },
+  {
+    "word": "AI",
+    "start": 1.14,
+    "end": 1.24
+  },
+  {
+    "word": "editor",
+    "start": 1.24,
+    "end": 1.54
+  },
+  {
+    "word": "ab",
+    "start": 1.54,
+    "end": 1.74
+  },
+  {
+    "word": "pause",
+    "start": 1.74,
+    "end": 2.0
+  },
+  {
+    "word": "bhi",
+    "start": 2.0,
+    "end": 2.18
+  },
+  {
+    "word": "cut",
+    "start": 2.18,
+    "end": 2.44
+  },
+  {
+    "word": "kar",
+    "start": 2.44,
+    "end": 2.62
+  },
+  {
+    "word": "deta",
+    "start": 2.62,
+    "end": 2.92
+  },
+  {
+    "word": "hai.",
+    "start": 2.92,
+    "end": 3.04
+  },
+  {
+    "word": "Punchline",
+    "start": 3.48,
+    "end": 4.04
+  },
+  {
+    "word": "kaat",
+    "start": 4.04,
+    "end": 4.32
+  },
+  {
+    "word": "gaya?",
+    "start": 4.32,
+    "end": 4.54
+  },
+  {
+    "word": "Ek",
+    "start": 5.16,
+    "end": 5.36
+  },
+  {
+    "word": "baar",
+    "start": 5.36,
+    "end": 5.64
+  },
+  {
+    "word": "ho",
+    "start": 5.64,
+    "end": 5.82
+  },
+  {
+    "word": "chuka",
+    "start": 5.82,
+    "end": 6.12
+  },
+  {
+    "word": "hai",
+    "start": 6.12,
+    "end": 6.26
+  },
+  {
+    "word": "sabke",
+    "start": 6.26,
+    "end": 6.58
+  },
+  {
+    "word": "saath.",
+    "start": 6.58,
+    "end": 6.88
+  },
+  {
+    "word": "Problem",
+    "start": 7.26,
+    "end": 7.74
+  },
+  {
+    "word": "yeh",
+    "start": 7.74,
+    "end": 8.24
+  },
+  {
+    "word": "hai:",
+    "start": 8.24,
+    "end": 9.26
+  },
+  {
+    "word": "AI",
+    "start": 9.26,
+    "end": 9.368
+  },
+  {
+    "word": "samajhta",
+    "start": 9.368,
+    "end": 9.8
+  },
+  {
+    "word": "nahi",
+    "start": 9.8,
+    "end": 10.16
+  },
+  {
+    "word": "ki",
+    "start": 10.16,
+    "end": 10.26
+  },
+  {
+    "word": "pause",
+    "start": 10.26,
+    "end": 10.6
+  },
+  {
+    "word": "kab",
+    "start": 10.6,
+    "end": 10.78
+  },
+  {
+    "word": "zaroori",
+    "start": 10.78,
+    "end": 11.22
+  },
+  {
+    "word": "hai.",
+    "start": 11.22,
+    "end": 11.42
+  },
+  {
+    "word": "Fix",
+    "start": 11.96,
+    "end": 12.2
+  },
+  {
+    "word": "simple",
+    "start": 12.2,
+    "end": 12.54
+  },
+  {
+    "word": "hai.",
+    "start": 12.54,
+    "end": 12.76
+  },
+  {
+    "word": "Prompt",
+    "start": 13.36,
+    "end": 13.74
+  },
+  {
+    "word": "mein",
+    "start": 13.74,
+    "end": 13.88
+  },
+  {
+    "word": "likho:",
+    "start": 13.88,
+    "end": 14.22
+  },
+  {
+    "word": "keep",
+    "start": 14.76,
+    "end": 14.96
+  },
+  {
+    "word": "natural",
+    "start": 14.96,
+    "end": 15.4
+  },
+  {
+    "word": "pauses",
+    "start": 15.4,
+    "end": 15.9
+  },
+  {
+    "word": "and",
+    "start": 15.9,
+    "end": 16.14
+  },
+  {
+    "word": "emotional",
+    "start": 16.14,
+    "end": 16.52
+  },
+  {
+    "word": "beats.",
+    "start": 16.52,
+    "end": 16.94
+  },
+  {
+    "word": "Phir",
+    "start": 17.78,
+    "end": 18.32
+  },
+  {
+    "word": "AI",
+    "start": 18.32,
+    "end": 18.448
+  },
+  {
+    "word": "cut",
+    "start": 18.448,
+    "end": 18.64
+  },
+  {
+    "word": "karega",
+    "start": 18.64,
+    "end": 19.04
+  },
+  {
+    "word": "sirf",
+    "start": 19.04,
+    "end": 19.38
+  },
+  {
+    "word": "extra",
+    "start": 19.38,
+    "end": 19.7
+  },
+  {
+    "word": "silence.",
+    "start": 19.7,
+    "end": 20.16
+  },
+  {
+    "word": "Try",
+    "start": 20.98,
+    "end": 21.24
+  },
+  {
+    "word": "karo",
+    "start": 21.24,
+    "end": 21.5
+  },
+  {
+    "word": "apne",
+    "start": 21.5,
+    "end": 21.74
+  },
+  {
+    "word": "Shorts",
+    "start": 21.74,
+    "end": 22.12
+  },
+  {
+    "word": "pe.",
+    "start": 22.12,
+    "end": 22.34
+  },
+  {
+    "word": "Comment",
+    "start": 22.76,
+    "end": 23.0
+  },
+  {
+    "word": "karo",
+    "start": 23.0,
+    "end": 23.3
+  },
+  {
+    "word": "kaam",
+    "start": 23.3,
+    "end": 23.58
+  },
+  {
+    "word": "aaya",
+    "start": 23.58,
+    "end": 23.84
+  },
+  {
+    "word": "ya",
+    "start": 23.84,
+    "end": 24.04
+  },
+  {
+    "word": "nahi.",
+    "start": 24.04,
+    "end": 24.28
+  }
+]

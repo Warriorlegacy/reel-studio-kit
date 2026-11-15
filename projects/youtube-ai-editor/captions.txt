@@ -1,0 +1,11 @@
+तुम्हारी video में joke से ठीक पहले एक pause है. AI ने उसे काट दिया—अब punchline ही गायब. YouTube का नया AI editor first cut बना सकता है. पर कहानी का फैसला कौन करेगा?
+
+YouTube ने Shorts और YouTube Create के लिए Gemini वाला conversational editing assistant announce किया. तुम chat में कह सकते हो: लंबे gaps हटाओ, clips का order बदलो, music को beat पर मिलाओ. पहले draft देखो; फिर prompt बदलो या timeline में खुद edit करो.
+
+अब same example. सवाल के बाद reveal से पहले छोटा pause है. “सारे pauses काटो” कहोगे तो suspense भी जा सकता है. बेहतर prompt: “लंबे dead gaps trim करो, reveal से पहले वाला छोटा pause रहने दो.” फिर check करो: बात साफ़ है? Punchline land कर रही है? Music आवाज़ दबा तो नहीं रहा?
+
+YouTube के tools suggestions और manual edit के बीच switch करने देते हैं—AI का पहला cut final नहीं. YouTube Studio के story feedback, thumbnail ideas और thumbnail testing अलग creator tools हैं. ये editor के same buttons नहीं. और announcement का rollout हर account में एक जैसा नहीं; अपने Studio में check करो.
+
+मेरी rule simple है: boring repeat काम AI को दो, कहानी का फैसला खुद करो. पहले किसी short, low-risk clip पर आज़माओ.
+
+अब तुम बताओ: first cut AI से लोगे या खुद करोगे? Comment: FIRST CUT या MANUAL.

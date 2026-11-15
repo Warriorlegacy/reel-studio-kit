@@ -1,0 +1,1 @@
+Flight mode on, phir bhi OTP aata hai—kaise? Authenticator app airplane mode mein bhi kaam karta hai. Secret key + time = code. Pehli setup ke liye internet chahiye; uske baad offline bhi 6-digit code generate hota hai, har 30 second. Time sync sahi rakho. Try karo: flight mode on, app kholo, code dekho. Comment: FLIGHT ya ONLINE?
