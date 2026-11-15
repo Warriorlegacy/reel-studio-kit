@@ -1,0 +1,77 @@
+name: Daily Reel Render & Publish
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+jobs:
+  render-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Composio CLI
+        run: curl -fsSL https://composio.dev/install | sh
+
+      - name: Composio login
+        env:
+          COMPOSIO_API_KEY: ${{ secrets.COMPOSIO_API_KEY }}
+        run: composio login --user-api-key "$COMPOSIO_API_KEY" --no-browser -y
+
+      - name: Pick next reel
+        id: pick
+        run: |
+          python3 -c "
+          import json
+          b=json.load(open('batch.json'))
+          q=b['queue']
+          if not q:
+              print('No reels in queue'); exit(1)
+          print('REEL_ID='+q[0])
+          " >> $GITHUB_OUTPUT
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Render
+        run: npm run render -- ${{ steps.pick.outputs.REEL_ID }}
+
+      - name: QA check
+        run: npm run check -- ${{ steps.pick.outputs.REEL_ID }} --every 30 --mp4 out/${{ steps.pick.outputs.REEL_ID }}.mp4
+
+      - name: Publish to YouTube
+        env:
+          COMPOSIO_API_KEY: ${{ secrets.COMPOSIO_API_KEY }}
+        run: |
+          composio execute "YOUTUBE_MULTIPART_UPLOAD_VIDEO" --account youtube_murray-navvy --file "out/${{ steps.pick.outputs.REEL_ID }}.mp4" -d '{"title":"Auto published reel","description":"Auto published","categoryId":"27","privacyStatus":"public","tags":["hindi tech"]}' || true
+
+      - name: Update batch.json
+        run: |
+          python3 -c "
+          import json
+          b=json.load(open('batch.json'))
+          rid='${{ steps.pick.outputs.REEL_ID }}'
+          b['queue'].remove(rid)
+          b['published'].append(rid)
+          b['lastRun']=rid
+          json.dump(b,open('batch.json','w'),indent=2)
+          "
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add batch.json
+          git commit -m "Publish ${{ steps.pick.outputs.REEL_ID }}" || true
+          git push || true
