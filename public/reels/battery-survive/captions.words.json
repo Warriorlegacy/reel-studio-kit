@@ -1,0 +1,172 @@
+[
+  {
+    "word": "Phone",
+    "start": 0.0,
+    "end": 0.46
+  },
+  {
+    "word": "ki",
+    "start": 0.575,
+    "end": 1.034
+  },
+  {
+    "word": "battery",
+    "start": 1.149,
+    "end": 1.609
+  },
+  {
+    "word": "1",
+    "start": 1.724,
+    "end": 2.183
+  },
+  {
+    "word": "percent",
+    "start": 2.298,
+    "end": 2.758
+  },
+  {
+    "word": "pe",
+    "start": 2.873,
+    "end": 3.333
+  },
+  {
+    "word": "kaise",
+    "start": 3.448,
+    "end": 3.907
+  },
+  {
+    "word": "survive",
+    "start": 4.022,
+    "end": 4.482
+  },
+  {
+    "word": "karti",
+    "start": 4.597,
+    "end": 5.056
+  },
+  {
+    "word": "hai?",
+    "start": 5.171,
+    "end": 5.631
+  },
+  {
+    "word": "Low",
+    "start": 5.746,
+    "end": 6.206
+  },
+  {
+    "word": "power",
+    "start": 6.32,
+    "end": 6.78
+  },
+  {
+    "word": "mode",
+    "start": 6.895,
+    "end": 7.355
+  },
+  {
+    "word": "facts.",
+    "start": 7.47,
+    "end": 7.929
+  },
+  {
+    "word": "Screen",
+    "start": 8.044,
+    "end": 8.504
+  },
+  {
+    "word": "dim,",
+    "start": 8.619,
+    "end": 9.078
+  },
+  {
+    "word": "background",
+    "start": 9.193,
+    "end": 9.653
+  },
+  {
+    "word": "apps",
+    "start": 9.768,
+    "end": 10.228
+  },
+  {
+    "word": "pause,",
+    "start": 10.343,
+    "end": 10.802
+  },
+  {
+    "word": "network",
+    "start": 10.917,
+    "end": 11.377
+  },
+  {
+    "word": "throttle.",
+    "start": 11.492,
+    "end": 11.951
+  },
+  {
+    "word": "Myth",
+    "start": 12.066,
+    "end": 12.526
+  },
+  {
+    "word": "busted:",
+    "start": 12.641,
+    "end": 13.101
+  },
+  {
+    "word": "1%",
+    "start": 13.216,
+    "end": 13.675
+  },
+  {
+    "word": "=",
+    "start": 13.79,
+    "end": 14.25
+  },
+  {
+    "word": "2",
+    "start": 14.365,
+    "end": 14.824
+  },
+  {
+    "word": "ghante",
+    "start": 14.939,
+    "end": 15.399
+  },
+  {
+    "word": "nahi,",
+    "start": 15.514,
+    "end": 15.974
+  },
+  {
+    "word": "10-15",
+    "start": 16.088,
+    "end": 16.548
+  },
+  {
+    "word": "min.",
+    "start": 16.663,
+    "end": 17.123
+  },
+  {
+    "word": "Comment:",
+    "start": 17.238,
+    "end": 17.697
+  },
+  {
+    "word": "MYTH",
+    "start": 17.812,
+    "end": 18.272
+  },
+  {
+    "word": "ya",
+    "start": 18.387,
+    "end": 18.847
+  },
+  {
+    "word": "FACT?",
+    "start": 18.961,
+    "end": 19.421
+  }
+]

@@ -1,0 +1,1 @@
+System in 30 seconds: internet packet journey. Phone to router to ISP to backbone to device. Comment: FAST ya SLOW?

@@ -1,0 +1,182 @@
+[
+  {
+    "word": "QR",
+    "start": 0.0,
+    "end": 0.463
+  },
+  {
+    "word": "code",
+    "start": 0.579,
+    "end": 1.042
+  },
+  {
+    "word": "scan",
+    "start": 1.157,
+    "end": 1.62
+  },
+  {
+    "word": "karte",
+    "start": 1.736,
+    "end": 2.199
+  },
+  {
+    "word": "waqt",
+    "start": 2.315,
+    "end": 2.778
+  },
+  {
+    "word": "kya",
+    "start": 2.893,
+    "end": 3.356
+  },
+  {
+    "word": "hota",
+    "start": 3.472,
+    "end": 3.935
+  },
+  {
+    "word": "hai?",
+    "start": 4.051,
+    "end": 4.514
+  },
+  {
+    "word": "3-step",
+    "start": 4.629,
+    "end": 5.092
+  },
+  {
+    "word": "safe",
+    "start": 5.208,
+    "end": 5.671
+  },
+  {
+    "word": "scan",
+    "start": 5.787,
+    "end": 6.25
+  },
+  {
+    "word": "checklist.",
+    "start": 6.365,
+    "end": 6.828
+  },
+  {
+    "word": "Step",
+    "start": 6.944,
+    "end": 7.407
+  },
+  {
+    "word": "1:",
+    "start": 7.523,
+    "end": 7.986
+  },
+  {
+    "word": "link",
+    "start": 8.101,
+    "end": 8.564
+  },
+  {
+    "word": "preview",
+    "start": 8.68,
+    "end": 9.143
+  },
+  {
+    "word": "dekho.",
+    "start": 9.259,
+    "end": 9.722
+  },
+  {
+    "word": "Step",
+    "start": 9.837,
+    "end": 10.3
+  },
+  {
+    "word": "2:",
+    "start": 10.416,
+    "end": 10.879
+  },
+  {
+    "word": "domain",
+    "start": 10.995,
+    "end": 11.458
+  },
+  {
+    "word": "check",
+    "start": 11.573,
+    "end": 12.036
+  },
+  {
+    "word": "karo.",
+    "start": 12.152,
+    "end": 12.615
+  },
+  {
+    "word": "Step",
+    "start": 12.731,
+    "end": 13.194
+  },
+  {
+    "word": "3:",
+    "start": 13.309,
+    "end": 13.772
+  },
+  {
+    "word": "app",
+    "start": 13.888,
+    "end": 14.351
+  },
+  {
+    "word": "permissions",
+    "start": 14.467,
+    "end": 14.93
+  },
+  {
+    "word": "deny",
+    "start": 15.045,
+    "end": 15.508
+  },
+  {
+    "word": "karo.",
+    "start": 15.624,
+    "end": 16.087
+  },
+  {
+    "word": "Safe",
+    "start": 16.203,
+    "end": 16.666
+  },
+  {
+    "word": "scan,",
+    "start": 16.781,
+    "end": 17.244
+  },
+  {
+    "word": "safe",
+    "start": 17.36,
+    "end": 17.823
+  },
+  {
+    "word": "phone.",
+    "start": 17.939,
+    "end": 18.402
+  },
+  {
+    "word": "Comment:",
+    "start": 18.517,
+    "end": 18.98
+  },
+  {
+    "word": "SCAN",
+    "start": 19.096,
+    "end": 19.559
+  },
+  {
+    "word": "ya",
+    "start": 19.675,
+    "end": 20.138
+  },
+  {
+    "word": "SKIP?",
+    "start": 20.253,
+    "end": 20.716
+  }
+]

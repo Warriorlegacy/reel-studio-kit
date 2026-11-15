@@ -1,0 +1,102 @@
+[
+  {
+    "word": "System",
+    "start": 0.0,
+    "end": 0.416
+  },
+  {
+    "word": "in",
+    "start": 0.52,
+    "end": 0.935
+  },
+  {
+    "word": "30",
+    "start": 1.039,
+    "end": 1.455
+  },
+  {
+    "word": "seconds:",
+    "start": 1.559,
+    "end": 1.974
+  },
+  {
+    "word": "internet",
+    "start": 2.078,
+    "end": 2.494
+  },
+  {
+    "word": "packet",
+    "start": 2.598,
+    "end": 3.014
+  },
+  {
+    "word": "journey.",
+    "start": 3.118,
+    "end": 3.533
+  },
+  {
+    "word": "Phone",
+    "start": 3.637,
+    "end": 4.053
+  },
+  {
+    "word": "to",
+    "start": 4.157,
+    "end": 4.572
+  },
+  {
+    "word": "router",
+    "start": 4.676,
+    "end": 5.092
+  },
+  {
+    "word": "to",
+    "start": 5.196,
+    "end": 5.612
+  },
+  {
+    "word": "ISP",
+    "start": 5.716,
+    "end": 6.131
+  },
+  {
+    "word": "to",
+    "start": 6.235,
+    "end": 6.651
+  },
+  {
+    "word": "backbone",
+    "start": 6.755,
+    "end": 7.17
+  },
+  {
+    "word": "to",
+    "start": 7.274,
+    "end": 7.69
+  },
+  {
+    "word": "device.",
+    "start": 7.794,
+    "end": 8.21
+  },
+  {
+    "word": "Comment:",
+    "start": 8.314,
+    "end": 8.729
+  },
+  {
+    "word": "FAST",
+    "start": 8.833,
+    "end": 9.249
+  },
+  {
+    "word": "ya",
+    "start": 9.353,
+    "end": 9.768
+  },
+  {
+    "word": "SLOW?",
+    "start": 9.872,
+    "end": 10.288
+  }
+]

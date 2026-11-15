@@ -1,5 +1,13 @@
 {
-  "queue": [],
+  "queue": [
+    "qr-safe-scan",
+    "battery-survive",
+    "dark-mode-myth",
+    "ai-photo-edit",
+    "tech-real-problem",
+    "system-30-sec",
+    "ai-tool-limit"
+  ],
   "published": [
     "ig-image-gif",
     "youtube-ai-editor",
