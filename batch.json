@@ -1,6 +1,5 @@
 {
   "queue": [
-    "qr-safe-scan",
     "battery-survive",
     "dark-mode-myth",
     "ai-photo-edit",
@@ -13,7 +12,8 @@
     "youtube-ai-editor",
     "authenticator-airplane",
     "authenticator-airplane-yt",
-    "internet-5min"
+    "internet-5min",
+    "qr-safe-scan"
   ],
-  "lastRun": null
+  "lastRun": "qr-safe-scan"
 }
