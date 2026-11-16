@@ -13,7 +13,8 @@
     "authenticator-airplane",
     "authenticator-airplane-yt",
     "internet-5min",
-    "qr-safe-scan"
+    "qr-safe-scan",
+    "qr-safe-scan-en"
   ],
-  "lastRun": "qr-safe-scan"
+  "lastRun": "qr-safe-scan-en"
 }
