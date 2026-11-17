@@ -1,6 +1,5 @@
 {
   "queue": [
-    "battery-survive",
     "dark-mode-myth",
     "ai-photo-edit",
     "tech-real-problem",
@@ -14,7 +13,8 @@
     "authenticator-airplane-yt",
     "internet-5min",
     "qr-safe-scan",
-    "qr-safe-scan-en"
+    "qr-safe-scan-en",
+    "battery-survive"
   ],
-  "lastRun": "qr-safe-scan-en"
+  "lastRun": "battery-survive"
 }
