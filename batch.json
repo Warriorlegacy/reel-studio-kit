@@ -1,6 +1,5 @@
 {
   "queue": [
-    "dark-mode-myth",
     "ai-photo-edit",
     "tech-real-problem",
     "system-30-sec",
@@ -14,7 +13,9 @@
     "internet-5min",
     "qr-safe-scan",
     "qr-safe-scan-en",
-    "battery-survive"
+    "battery-survive",
+    "motion-graphics-premium",
+    "dark-mode-myth"
   ],
-  "lastRun": "battery-survive"
+  "lastRun": "dark-mode-myth"
 }
