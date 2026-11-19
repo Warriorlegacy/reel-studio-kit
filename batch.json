@@ -1,6 +1,5 @@
 {
   "queue": [
-    "ai-photo-edit",
     "tech-real-problem",
     "system-30-sec",
     "ai-tool-limit"
@@ -15,7 +14,8 @@
     "qr-safe-scan-en",
     "battery-survive",
     "motion-graphics-premium",
-    "dark-mode-myth"
+    "dark-mode-myth",
+    "ai-photo-edit"
   ],
-  "lastRun": "dark-mode-myth"
+  "lastRun": "ai-photo-edit"
 }
