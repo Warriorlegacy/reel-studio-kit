@@ -1,6 +1,5 @@
 {
   "queue": [
-    "tech-real-problem",
     "system-30-sec",
     "ai-tool-limit"
   ],
@@ -15,7 +14,8 @@
     "battery-survive",
     "motion-graphics-premium",
     "dark-mode-myth",
-    "ai-photo-edit"
+    "ai-photo-edit",
+    "tech-real-problem"
   ],
-  "lastRun": "ai-photo-edit"
+  "lastRun": "tech-real-problem"
 }
