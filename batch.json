@@ -1,5 +1,12 @@
 {
-  "queue": [],
+  "queue": [
+    "wifi-vs-data",
+    "incognito-myth",
+    "app-permissions",
+    "cloud-backup",
+    "two-factor-auth",
+    "phishing-link"
+  ],
   "published": [
     "ig-image-gif",
     "youtube-ai-editor",
@@ -14,7 +21,8 @@
     "ai-photo-edit",
     "tech-real-problem",
     "system-30-sec",
-    "ai-tool-limit"
+    "ai-tool-limit",
+    "password-manager-truth"
   ],
-  "lastRun": "ai-tool-limit"
+  "lastRun": "password-manager-truth"
 }
